@@ -7,7 +7,7 @@ As a versatile designer & developer, I have accumulated valuable experience thro
 
 ### Most Used Language
 
-  [![Github States](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheralmajed&langs_count=20&card_width=1080&hide_title=true&show_icons=true&bg_color=00000000)](https://github.com/zaheralmajed)
+  [![Github States](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheralmajed&langs_count=20&card_width=1080&hide_title=true&show_icons=true&bg_color=00000000&text_color=fbfcfc&border_color=fbfcfc)](https://github.com/zaheralmajed)
 
 
 
