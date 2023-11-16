@@ -3,8 +3,8 @@ As a versatile designer & developer, I have accumulated valuable experience thro
 ### Most Used Language
 ### Github States
 
-<p float="left">
+
   [![Github States](https://github-readme-stats.vercel.app/api/top-langs/?username=zaheralmajed&langs_count=20&card_width=540&hide_title=true&show_icons=true&bg_color=00000000)](https://github.com/zaheralmajed)
 [![Most Used Language](https://github-readme-stats.vercel.app/api?username=zaheralmajed&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&bg_color=00000000&card_width=540)](https://github.com/zaheralmajed)
 
-</p>
+
