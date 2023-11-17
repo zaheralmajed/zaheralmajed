@@ -1,7 +1,7 @@
 <div  align="center">
 
 <h1 align="center" >Hey there! 👋 My name is Zaher & I'm a<br>designer, coder, and marketer</h1>
-<br>
+
         As a versatile designer & developer, I have accumulated valuable experience through a diverse range of projects, encompassing everything from branding to web and app
           development. My expertise lies in comprehending clients' requirements and
           transforming them into purposeful and visually captivating designs. Throughout my career,
