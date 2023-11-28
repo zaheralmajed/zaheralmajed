@@ -12,6 +12,6 @@
         </p>
 <br>
 
+[![Website](https://img.shields.io/badge/zaher.desgin-fbfcfc?logo=website&label=website&style=for-the-badge)](https://zaher.design)
 
-[![Website](https://img.shields.io/badge/zaher.desgin-fbfcfc?logo=website&label=website)](https://zaher.design)
 </div>
